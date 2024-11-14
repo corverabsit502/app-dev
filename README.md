@@ -1,2 +1,6 @@
 # app-dev
 My first repository
+# MY FAVORITE MOVIES
+1. HELLO LOVE GOODBYE
+2. THE WAILING
+3. THE CURE
